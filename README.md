@@ -28,7 +28,7 @@ Substitua o usuário maxsonferovante pelo seu usuário no GitHub.
 
 ### Eu já trabalhei com... 🔧
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+![JAVA](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black)
 
 
 ### Tecnologias e Ferramentas...⚡
