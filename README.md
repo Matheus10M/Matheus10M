@@ -2,7 +2,7 @@
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.linkedin.com/in/bruno-empke-8a73121b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+<a href="linkedin.com/in/matheus-melo-63a9a1108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
 
 
